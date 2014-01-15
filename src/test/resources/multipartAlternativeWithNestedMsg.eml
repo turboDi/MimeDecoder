@@ -1,0 +1,84 @@
+Content-Type: multipart/alternative; boundary="----------=_1334231022-8218-0"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.502 (Entity 5.502)
+From: "Any User" <any.user@example.test>
+To: "Some User" <some.user@example.test>
+Subject: Multipart alternative with attachments
+
+This is a multi-part message in MIME format...
+
+------------=_1334231022-8218-0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+*Multipart alternative with attachments*
+
+Here comes the plain text.
+------------=_1334231022-8218-0
+Content-Type: multipart/related; boundary="----------=_1334231022-8218-1"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format...
+
+------------=_1334231022-8218-1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+	  <body>
+			  <h1>Multipart alternative with attachments</h1>
+			  <p>Here comes the fancy text.</p>
+			  <img src="cid:b0a42f67a1ae19acda1c56bcc3d092e650815a70245f3" width="100" height="100" title="123"  />
+	  </body>
+</html>
+------------=_1334231022-8218-1
+Content-Type: image/jpeg; name="meubvzqgorvvawua.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <b0a42f67a1ae19acda1c56bcc3d092e650815a70245f3>
+
+/9j/4AAQSkZJRgABAQAAAQABAAD//gA+Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJ
+SkcgSlBFRyB2NjIpLCBkZWZhdWx0IHF1YWxpdHkK/9sAQwAIBgYHBgUIBwcHCQkICgwUDQwL
+CwwZEhMPFB0aHx4dGhwcICQuJyAiLCMcHCg3KSwwMTQ0NB8nOT04MjwuMzQy/9sAQwEJCQkM
+CwwYDQ0YMiEcITIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+MjIyMjIy/8AAEQgARwBfAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH
+CAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEV
+UtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0
+dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV
+1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYH
+CAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkj
+M1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpz
+dHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT
+1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A9wd7pbjCxK8J77sFeR/T
+cafHJMxXfBsBGT8+cHA4/Mn8qlorzuZW2NLFVEvCsweWNSWPlsoyQMHGRx0ODS+TdeeW+1/u
+ifueUOBxxn/PWrNIx2qT6DNPnYWI4VlXf5rhskbcDHG0Z/XJ/GleeONsMwz/ACp+eSpxnrwa
+x2s7gySTFt/lZDAkcnGc+2c/5xUyUr2S1KgovdmskiyDKnNI8yIcM1U7CK4jaRrgjccBFXkL
+wCeSMnk+3Tpxk1fstzm4ldmcR/KQ2AD8obI9s/jn2ApWneyWpSUb6vQ10kV87TnFI8yIcE//
+AFqq2MV1EZDcMo3Y2IoJA45OSB6+g6VUisrqWaR2ZsqwQqxBXO0HI46Z/HOaTU72S1BKN9Xo
+a6SLIMqadVO0t7iCWUzupVseWqjoO5z35Pt0q5Ts1uQ7X0CiiigQU2Rd8bKMcjHIzTqKBnOa
+Zdu2rtDc3DPMGdcFifrjtjj0Hb0xXRBS8DiP5GbPOO/TNZt/Pb6fKbhYmed1xshiLM5HTOOf
+UfjntTYtSeW2treQNFcSRKZlfgxjGMn6kcf/AFjW1H3fek7mlX37SirIz9DvpDeCCR2JO4eX
+g/L3yOyjjHTqRXSlHe3ZdwRjnBH6Vl3l1baWwcIxkkG1Y4kLPIwGQAB7Z56ce1LHqHnQW9uS
+0Ezwq8iSfejHoffqPwPpRR927k7hW9980VZGdol5J9tMEsjM2Cvl7eFPXI6bRxjGO46V08Wd
+mSAM88enasi8uLbTW3rGzSyDascKFmdwOBgcdM8n2J4FOW/EscEA/wBHdoleSNz80akdD+RH
+4H0NFH3byk7hW998yVkXkxJK8wA+bABxztHT9ST+NSUxSgAUEdOBntT6ybu7szCiiikIKbJv
+8tvLxvwduemadTXJCEggY9elMBYjDJEOAeMkEc596exjijO0BeOAMCqVssb+YbmEJK0h+boH
+GOCOfQD8jRdJbtGUhIMmBgKdxx9M13qWhFixam1ktl8go8XY7t2T0696kcpFEdoAwOAuBWNo
+kdrBALSaBIbgfNgYG9D905B5O0AH0x6Yzduo7ZoykZy+OApJ9ulCleNypRs7E9oLR7SMW5SS
+FR8p3bx9c9/rU/7uMYG1fbpWLo723kG1nQRXEP3lIx8rZK4PQ/LjOP8ACr1wltImEO5uOFYn
+jpQpLluEo2lY5i9uRKHVNzo2RGBnODwMd+mPf866q1Eoto/PIMu0b8dM965nTIPterqGHyxA
+vyPwH8/0rrK8um3JuTO3F8seWC6BRWd/a8Xlb/s8/XGPlz/OnNqqLs/0ec7v93j/AMerp9hU
+7HHcv0hUMCGAIPUGqP8Aaqed5f2ebPr8uP501NXjdGYW0+F/3ef/AB6j2NTsFya/ilazcW7s
+j9SV6n29fyrMstZhtrVLaWOQtENoKgcgdOp61eOrRiESG2nwe3y5/wDQqzZ7fTZbhS1pchnx
+9yTaB/49/KplQq3vFG9KdPl5ai0JPNguoJksDLbzMd7Z6sBxgHJx2wBiltNat4bZLeWKRmjA
+T5VGDj8etOtBYWtw/k2txu24LPJuBGfdjUDWulzbpPst0oB6LJj8vm4HNT9XrbpFqpRd4tO3
+4ji9rdW80NjuglcbmDdXUDGAcnAGRxwP1p9lrcMFukEschaMBMoAQQPxpbZrCyHmw21zlxt+
+Z93H4tjtUUtnpjzDNtcqW5+SUgDv/e/lR9XrbpAqlF3jJO34l7TJrAyyJawmKR/nIbqQPxOA
+M9PetOsWzNhZzsYLe4DbSCXk3DGfdjVsarGYy4hmODjHy5/nVxoVLaowqSi5Xj+JhC2f7Iyt
+OxIfGT2p0kAKWx84gDHbr0oor1uZmPKgEBF9kzHntt9qbb24VZl84n5fTp1ooo5nYLIRrfNk
+gE5wG67frTmtyzwMJiAAO3WiijmYcqJVt2F67eceR0x9KhW2k+zSf6Q/UYP4/WiijmY+VA1p
+IbOMfaCME5OD/jT5bRzdRHzz05GPrRRRzMXKhYoJPtEuLhyMMAD25pqwOtnIGuXPzdQOe3vR
+RRzMOVH/2Q==
+------------=_1334231022-8218-1--
+
+------------=_1334231022-8218-0--
